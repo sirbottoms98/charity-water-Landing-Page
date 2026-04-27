@@ -1,1 +1,2 @@
-# Week 2 Project: Build the charity: water Landing Page
+A landing page I worked on for charity: water.
+Purpose: A project  for the Global Career Accelerator at UTD
